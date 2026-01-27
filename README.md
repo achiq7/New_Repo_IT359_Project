@@ -6,4 +6,4 @@ Test
 - Team member 2
 
 ## Full Project Idea
-- 
+New text
