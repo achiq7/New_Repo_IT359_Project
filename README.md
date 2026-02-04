@@ -2,8 +2,8 @@
 Test
 
 ## Team Members
-- Team member 1
-- Team member 2
+- D'Shanti Williams
+- Alyssa Chiquito
 
 ## Full Project Idea
 - 
