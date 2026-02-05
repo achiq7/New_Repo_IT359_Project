@@ -59,8 +59,8 @@ As a team, we have decided to create a vulnerability scanner that will be applie
 - Week 1-2: Schedule times/dates available for meetings, learn github commands, and familiarize ourselves with OWASP Juice Shop application
 - Week 3-6: Code creation
 - Week 7-9: Test tool on web application and begin report
-- Week 11: Tweak code
-- Week 12: Final presentation slides and presentation video
+- Week 11:  Edit code
+- Week 12:  Final presentation slides and presentation video
   
 
 
