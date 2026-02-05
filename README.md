@@ -6,12 +6,12 @@
 
 ## Web Application Vulnerability Scanner (Project Proposal) 
 - Project Description:
-As a team, we have decided to create a vulnerability scanner that will be applied to a premade web application. Our tool will be used to scan for vulnerabilities such as SQL injection, HTTP use, cross site scripting, etc. This tool will be able to automate vulnerability checks and would ideally be utilized towards other web applications besides our host environment. Our plan is to code using Python that which will hold the vulnerability scanning code as well as a PDF report of all vulnerabilities found within the application. Additionally, this tool will be able to read the URL, parse through the link to detect weak areas, flag  
+As a team, we have decided to create a vulnerability scanner that will be applied to a premade web application called OWSAP Juice Shop. Our tool will be used to scan for vulnerabilities such as SQL injection, HTTP use, cross site scripting, etc. as well as be atutomated. Our plan is to code using Python which will hold the code for vulnerability scanning as well as a HTML/PDF report of all vulnerabilities found within the application. 
 
 - Plan of Action:
   -  Develop a custom python tool that automates vulnerabilty checks
   -  Document the web security findings from the python tool
-  -  Create a human readable html/pdf report which would include our findings and different mitigation techniques that we would recommend
+  -  Create a human readable HTML/PDF report which would include our findings and different mitigation techniques that we recommend
   
 - Tools:
   -  Testing target (OWASP Juice Shop)
@@ -19,7 +19,7 @@ As a team, we have decided to create a vulnerability scanner that will be applie
   -  Kali Linux Machine
  
 - Deliverables:
-  -  Background?
+  -  Investigation
       -  Parse through common vulnerability paths/files
       -  Navigate through common administrator paths
   - Security checks
@@ -34,6 +34,14 @@ As a team, we have decided to create a vulnerability scanner that will be applie
            - Mitigation techniques
         
 - Roles:
+  - Alyssa
+      -  
+      -  Code split evenly
+      -  
+  - D'Shanti
+      -  Scheduling
+      -  Code split evenly
+   
 - Timeline: 
   
 
