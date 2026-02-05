@@ -14,9 +14,9 @@ As a team, we have decided to create a vulnerability scanner that will be applie
   -  Create a human readable html/pdf report which would include our findings and different mitigation techniques that we would recommend
   
 - Tools:
-  Testing target (OWASP Juice Shop)
-  Python3
-  Kali Linux Machine
+  -  Testing target (OWASP Juice Shop)
+  -  Python3
+  -  Kali Linux Machine
  
 - Deliverables:
   - Parse through common vulnerability paths/files
