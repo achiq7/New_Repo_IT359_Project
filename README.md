@@ -6,13 +6,12 @@
 
 ## Web Application Vulnerability Scanner (Project Proposal) 
 - Project Description:
-- 
 As a team, we have decided to create a vulnerability scanner that will be applied to a premade web application. Our tool will be used to scan for vulnerabilities such as SQL injection, HTTP use, cross site scripting, etc. This tool will be able to automate vulnerability checks and would ideally be utilized towards other web applications besides our host environment. Our plan is to code using Python that which will hold the vulnerability scanning code as well as a PDF report of all vulnerabilities found within the application. Additionally, this tool will be able to read the URL, parse through the link to detect weak areas, flag  
 
 - Plan of Action:
-  1.) Develop a custom python tool that automates vulnerabilty checks
-  2.) Document the web security findings from the python tool
-  3.) Create a human readable html/pdf report which would include our findings and different mitigation techniques that we would recommend
+  -  Develop a custom python tool that automates vulnerabilty checks
+  -  Document the web security findings from the python tool
+  -  Create a human readable html/pdf report which would include our findings and different mitigation techniques that we would recommend
   
 - Tools:
   Testing target (OWASP Juice Shop)
