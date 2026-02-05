@@ -45,14 +45,22 @@ As a team, we have decided to create a vulnerability scanner that will be applie
         
 ## Roles:
   - Alyssa
-      -  
+      -  README file
       -  Code split evenly
-      -  
+      -  Split report evenly
+      -  Presentation slides
   - D'Shanti
-      -  Scheduling
+      -  Scheduling of meetings
       -  Code split evenly
+      -  Split report evenly
+      -  Presentation slides
    
-## Timeline: 
+## Timeline:
+- Week 1-2: Schedule times/dates available for meetings, learn github commands, and familiarize ourselves with OWASP Juice Shop application
+- Week 3-6: Code creation
+- Week 7-9: Test tool on web application and begin report
+- Week 11: Tweak code
+- Week 12: Final presentation slides and presentation video
   
 
 
