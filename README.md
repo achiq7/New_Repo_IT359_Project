@@ -19,13 +19,14 @@ As a team, we have decided to create a vulnerability scanner that will be applie
   -  Kali Linux Machine
  
 - Deliverables:
-  - Parse through common vulnerability paths/files
-  - Navigate through common administrator paths
+  -  Background?
+      -  Parse through common vulnerability paths/files
+      -  Navigate through common administrator paths
   - Security checks
-       - Security header checks
-       - SQL checks
-       - Certificate checks
-       - Cross Site Scripting checks
+       -  Security header checks
+       -  SQL checks
+       -  Certificate checks
+       -  Cross Site Scripting checks
    - Output
        - JSON output
        - Produce HTML/PDF report including:
