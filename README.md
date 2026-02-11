@@ -56,11 +56,11 @@ As a team, we have decided to create a vulnerability scanner that will be applie
       -  Presentation slides
    
 ## Timeline:
-- Week 1-2: Schedule times/dates available for meetings, learn github commands, and familiarize ourselves with OWASP Juice Shop application
-- Week 3-6: Code creation
-- Week 7-9: Test tool on web application and begin report
-- Week 11:  Edit code
-- Week 12:  Final presentation slides and presentation video
+- Week 1-2: Schedule times/dates available for meetings, learn github commands, and familiarize ourselves with OWASP Juice Shop application (Feb. 8 - 21)
+- Week 3-6: Code creation (Feb 22 - Mar. 21)
+- Week 7-9: Test tool on web application and begin report (Mar. 22 - Apr. 11)
+- Week 11:  Edit code (Apr. 12 - 18)
+- Week 12:  Final presentation slides and presentation video (Apr. 19 - May 2)
   
 
 
